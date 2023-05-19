@@ -6,7 +6,7 @@ Usage:
 1. Clone the repository:
    - Open a terminal or command prompt.
    - Run the following command:
-     git clone 
+     git clone https://github.com/shilpeed/OpenText.git
      cd your_repository
 
 2. Build the project:
